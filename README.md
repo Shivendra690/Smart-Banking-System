@@ -2,7 +2,7 @@
 Autonomous money withdrawing system through cheque in Bank.
 In this repository retrained graph is not uploaded due to its large size but i have submitted as a zip file on website
 
-##steps to run---
+##steps to run---##
 for training run retrain.py
 After training your retrained graph and labels with weights will be saved in your project directory.
 insert an image in test_images folder and then run test.py, you will get prediction for the entered image.
